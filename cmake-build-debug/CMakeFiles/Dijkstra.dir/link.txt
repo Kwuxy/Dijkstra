@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Dijkstra.dir/main.c.o CMakeFiles/Dijkstra.dir/node.c.o CMakeFiles/Dijkstra.dir/matrix.c.o CMakeFiles/Dijkstra.dir/intArray.c.o  -o Dijkstra.exe -Wl,--out-implib,libDijkstra.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
